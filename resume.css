@@ -53,3 +53,29 @@ body {
       letter-spacing: .2rem;
     }
   }
+
+  /*_______________________________________*/
+
+  .text-center {
+    text-align: center;
+  }
+
+  .logo-link1 {
+    width: 30px;
+    position: relative;
+    float: left;
+    margin-left: 48%;
+    align-items: center;
+    
+  }
+
+  .logo-link2 {
+    width: 30px;
+    position: relative;
+    float: left;
+    margin-left: 1%;
+  }
+
+  td {
+    text-align: center;
+  }
