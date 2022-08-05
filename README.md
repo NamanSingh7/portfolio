@@ -1,4 +1,5 @@
 # portfolio
 A portfolio is a compilation of materials that exemplifies your beliefs, skills, qualifications, education, training, and experiences. It provides insight into your personality and work ethic. A portfolio website is generally a static website featuring work samples and other details as explained above. It is closely related to Online Resume or C.V.
 
-![image](https://user-images.githubusercontent.com/88393791/183114580-48ae1174-ce43-4db4-b87d-a14ffdc35c0b.png)
+
+![code](https://user-images.githubusercontent.com/88393791/183115066-41b2ce67-d086-4e18-a7f3-16dfca98dd7f.gif)
